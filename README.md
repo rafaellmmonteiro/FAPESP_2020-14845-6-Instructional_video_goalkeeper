@@ -7,6 +7,6 @@ A pasta workingprepos possui os arquivos de coordenadas 3D já todo processado q
 A pasta working3d são os dados reconstruidos com 144 saltos, ou seja, já tiveram 10 saltos excluidos mas ainda seriam excluidos mais 20
 Já a pasta arquivoscalib possui os dados utilizados para as 6 calibrações utilizadas na coleta
 
-Qualquer dúvida contatar: rafaell_mmonteiro@usp.br /
+Qualquer dúvida contatar: rafaell_mmonteiro@usp.br 
 
 ![GIF_defesa](https://user-images.githubusercontent.com/84471266/148657040-8c440bef-7067-47cf-9ce7-da1e0f6e5260.gif)
